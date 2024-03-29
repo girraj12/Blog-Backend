@@ -1,7 +1,7 @@
 import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
 
-const url = 'http://localhost:8300';
+const url = 'https://blog-backend-7ef8.onrender.com';
 
 
 let gfs, gridfsBucket;
